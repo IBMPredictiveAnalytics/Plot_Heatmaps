@@ -3,7 +3,7 @@
 
 This SPSS Modeler ‘output’ node allows you to plot spatial data on a density heatmap. Simply install the node, select the coordinate’s fields and choose the visual parameters that suit you best. Then start visualizing simply and easily your data directly in IBM SPSS Modeler.
 
-![Map](https://github.com/IBMPredictiveAnalytics/Plot-Heatmaps/blob/master/Screenshot/maps.gif?raw=true)
+![Map](https://github.com/IBMPredictiveAnalytics/Plot-Heatmaps/blob/master/Screenshot/map.gif?raw=true)
 
 Check some live screenshots here:
 - [Crime in Chicago][10]
