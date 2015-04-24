@@ -37,6 +37,7 @@ Documentation and samples
 ----
 - Find a PDF with the documentation of this extension in the [Documentation][5] directory
 - There is a sample available in the [example][6] directory
+- [Video-tutorial][20]
 
 ---
 License
@@ -59,3 +60,4 @@ Contributors
 [6]:https://github.com/IBMPredictiveAnalytics/Plot-Heatmaps/tree/master/Example
 [10]:https://github.com/IBMPredictiveAnalytics/Plot-Heatmaps/tree/master/Screenshot
 [11]:http://cran.r-project.org/web/packages/ggplot2/index.html
+[20]:https://www.youtube.com/watch?v=j1EeC4XSGdw
