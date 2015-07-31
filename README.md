@@ -15,7 +15,7 @@ Requirements
 ----
 - IBM SPSS Modeler v16 or later
 - IBM SPSS Modeler 'R Essentials'
-- R 2.15.x or R 3.1
+- R 2.15 or R 3.1
 
 More information here: [IBM Predictive Extensions][2]
 
